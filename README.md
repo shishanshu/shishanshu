@@ -21,7 +21,7 @@ With hands-on experience in AWS, Linux, Docker, Kubernetes, CI/CD pipelines, She
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="85" alt="Python"/>  
   </a>  
   <a href="https://kubernetes.io/" target="_blank">  
-    <img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-3629029-3030006.png" height="80" alt="Kubernetes"/>  
+    <img src="https://miro.medium.com/v2/resize:fit:960/1*heBL2CmsNNWSJrFzl4jPZA.gif" height="80" alt="Kubernetes"/>  
   </a>  
   <a href="https://www.docker.com/" target="_blank">  
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="75" alt="Docker"/>  
