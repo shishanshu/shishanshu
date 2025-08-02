@@ -24,7 +24,7 @@ With hands-on experience in AWS, Linux, Docker, Kubernetes, CI/CD pipelines, She
     <img src="https://miro.medium.com/v2/resize:fit:960/1*heBL2CmsNNWSJrFzl4jPZA.gif" height="80" alt="Kubernetes"/>  
   </a>  
   <a href="https://www.docker.com/" target="_blank">  
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="75" alt="Docker"/>  
+    <img src="https://k21academy.com/wp-content/uploads/2021/07/Docker.gif" height="75" alt="Docker"/>  
   </a>  
   <a href="https://www.terraform.io/" target="_blank">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="80" alt="Terraform"/>  
